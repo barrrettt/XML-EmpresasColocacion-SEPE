@@ -1,0 +1,2 @@
+empresacolocacionxmlgenerator.NewJFrame
+empresacolocacionxmlgenerator.NewJFrame$1
